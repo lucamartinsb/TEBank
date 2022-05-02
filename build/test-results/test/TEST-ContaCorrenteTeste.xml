@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ContaCorrenteTeste" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-05-02T00:30:40" hostname="LAPTOP-UI555IUN" time="0.028">
+  <properties/>
+  <testcase name="DeveSacarComSaldoZeroESaldoPermanecerZero()" classname="ContaCorrenteTeste" time="0.025"/>
+  <testcase name="DeveAdicionarSaldoAContaEVerificarOValorFinal()" classname="ContaCorrenteTeste" time="0.001"/>
+  <testcase name="DeveRemoverSaldoDaContaEVerificarOValorFinal()" classname="ContaCorrenteTeste" time="0.001"/>
+  <system-out><![CDATA[Saldo insuficiente!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
